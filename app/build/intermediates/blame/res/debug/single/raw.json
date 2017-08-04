@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/emboss_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/emboss_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/wave_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/wave_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/flip_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/flip_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/twirl_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/twirl_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/warp_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/warp_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/_vertex_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/edge_detect_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/edge_detect_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/bulge_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/bulge_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/toon_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/toon_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/blurring_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/blurring_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/hueshift_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/hueshift_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/invert_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/invert_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/negative_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/negative_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/res/merged/debug/raw/luminance_fragment_shader.glsl",
+        "source": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/raw/luminance_fragment_shader.glsl"
+    }
+]

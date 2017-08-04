@@ -1,0 +1,22 @@
+#Thu Aug 03 18:44:19 CEST 2017
+renamed.6=classes7.dex
+renamed.5=classes.dex
+renamed.4=classes5.dex
+renamed.3=classes3.dex
+renamed.2=classes6.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.6=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_79e26bf1dddbf78284a5164dd1be6e4bad030385
+base.5=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2125741c0bb96882367eed046232ca1d72ba1db1
+base.4=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab9a13d024f2626d1271211fa215253b533c16ad
+base.3=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c768cca99244b262e3a6f5309dbdf37d13fade4
+base.2=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de208cfd20b1ea3d3ca24b75ec81af3e7e182092
+base.1=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_493714db53df89034be8d053d09c2a6b5cd3baa3
+base.0=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61612418dabcc2d520ca01ec3e22e2bf3e18ceb2
+file.6=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_79e26bf1dddbf78284a5164dd1be6e4bad030385/classes.dex
+file.5=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2125741c0bb96882367eed046232ca1d72ba1db1/classes.dex
+file.4=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab9a13d024f2626d1271211fa215253b533c16ad/classes.dex
+file.3=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c768cca99244b262e3a6f5309dbdf37d13fade4/classes.dex
+file.2=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de208cfd20b1ea3d3ca24b75ec81af3e7e182092/classes.dex
+file.1=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_493714db53df89034be8d053d09c2a6b5cd3baa3/classes.dex
+file.0=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61612418dabcc2d520ca01ec3e22e2bf3e18ceb2/classes.dex

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Processing with Shader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_shader_original">Original</string>
+    <string name="str_shader_edgedetect">Edge detect</string>
+    <string name="str_shader_blur">Blur</string>
+    <string name="str_shader_invert">Invert</string>
+    <string name="str_shader_emboss">Emboss</string>
+    <string name="str_shader_flip">Flip</string>
+    <string name="str_shader_twirl">Twirl</string>
+    <string name="str_shader_warp">Warp</string>
+    <string name="str_shader_toon">Toon</string>
+    <string name="str_shader_hue">Hue</string>
+    <string name="str_shader_luminance">Luminance</string>
+    <string name="str_shader_mirror">Weird mirror</string>
+    <string name="str_shader_bulge">Bulge</string>
+
+</resources>

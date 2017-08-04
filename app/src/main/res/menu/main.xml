@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_shader_original" android:title="@string/str_shader_original"></item>
+    <item android:id="@+id/menu_shader_edgedetect" android:title="@string/str_shader_edgedetect"></item>
+    <item android:id="@+id/menu_shader_blur" android:title="@string/str_shader_blur"></item>
+    <item android:id="@+id/menu_shader_invert" android:title="@string/str_shader_invert"></item>
+    <item android:id="@+id/menu_shader_emboss" android:title="@string/str_shader_emboss"></item>
+    <item android:id="@+id/menu_shader_flip" android:title="@string/str_shader_flip"></item>
+    <item android:id="@+id/menu_shader_twirl" android:title="@string/str_shader_twirl"></item>
+    <item android:id="@+id/menu_shader_warp" android:title="@string/str_shader_warp"></item>
+    <item android:id="@+id/menu_shader_toon" android:title="@string/str_shader_toon"></item>
+    <item android:id="@+id/menu_shader_hue" android:title="@string/str_shader_hue"></item>
+    <item android:id="@+id/menu_shader_luminance" android:title="@string/str_shader_luminance"></item>
+    <item android:id="@+id/menu_shader_mirror" android:title="@string/str_shader_mirror"></item>
+    <item android:id="@+id/menu_shader_bulge" android:title="@string/str_shader_bulge"></item>
+
+</menu>

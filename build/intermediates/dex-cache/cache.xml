@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae1f43676b7523f3670b1bd3fde64480322f5462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9464ffec15be8d138e942c87fcf705e7761d05e9">
+        <dex dex="/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19df31c2fc6556a96d1be7fca9336310029e612c/classes.dex" />
+    </item>
+
+</items>

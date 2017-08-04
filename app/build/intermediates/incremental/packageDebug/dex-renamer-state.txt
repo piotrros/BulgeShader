@@ -1,0 +1,7 @@
+#Fri Aug 04 16:43:43 CEST 2017
+base.0=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19df31c2fc6556a96d1be7fca9336310029e612c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae1f43676b7523f3670b1bd3fde64480322f5462/classes.dex
+base.1=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae1f43676b7523f3670b1bd3fde64480322f5462
+file.0=/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19df31c2fc6556a96d1be7fca9336310029e612c/classes.dex

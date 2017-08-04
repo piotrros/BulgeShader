@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 65,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 52,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 48,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 50,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 50,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 61,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 52,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 48,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 46,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 52,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 58,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 58,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endColumn": 56,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 48,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 50,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endColumn": 48,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "/Users/makalele/Documents/zlecenia/ImgProcessing/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
